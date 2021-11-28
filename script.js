@@ -20,12 +20,7 @@ function borrar() {
     precio.innerHTML = "Total a pagar: $";
 }
 
-function comprar() {
-    window.location.replace("http://stackoverflow.com");
-}
 
 botonResumen.addEventListener('click', resultado);
 
 botonBorrar.addEventListener('click', borrar);
-
-botonComprar.addEventListener('click', comprar);

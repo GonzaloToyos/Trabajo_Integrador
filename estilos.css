@@ -13,7 +13,6 @@
 }
 .fondo{
     min-height: 85vh;
-    background-image: url('imagenes/ba3.jpg');
     background-color: rgb(80,80,80);
     background-blend-mode: soft-light;
     background-repeat: no-repeat;
